@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://github.com/heilandoo/leaflet-stop-h2med-storymap-google-sheets
+- Leaflet Map https://heilandoo.github.io/leaflet-stop-h2med-storymap-google-sheets/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1yhtB_8VG_RGnVwK3vggsfBFKvTRq8pBwunW-8Ylzjs8/edit?gid=0#gid=0
 
 ## Create Your Own
